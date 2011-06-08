@@ -1,0 +1,18 @@
+
+Amazing Audio Twitter HTML5 awesomeness
+http://9elements.com/io/projects/html5/canvas/
+
+A nice splash page that we could use as inspiration
+http://www.p-rimes.net/
+    It uses this service to do all the fancy stuff 
+    http://flavors.me/
+
+
+jQuery
+Twitter library or twitter with jQuery
+
+
+
+Tweet library in JS on github
+http://tweet.seaofclouds.com/
+https://github.com/seaofclouds/tweet
